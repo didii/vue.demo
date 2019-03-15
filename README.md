@@ -1,6 +1,8 @@
 # demo
 
-See other README.md's for some extra explanations.
+See other README.md's for some extra explanations. Most notably under ./src/first and ./src/second. Where First is the Vue way of parent-child relations and Second is the classic parent-child relation.
+
+There is a lot more to Vue than just this example. See the resources below for more information.
 
 ## Resources
 
